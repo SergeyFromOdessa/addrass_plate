@@ -1,3 +1,4 @@
+# coding: utf-8
 import cairo
 import io
 from math import sin, cos, radians
